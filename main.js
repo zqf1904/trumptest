@@ -6,7 +6,7 @@ function doTalk() {
   document.getElementById("yousay").value = "";
   pb.talk(input, function(data) {
     var response = data["responses"];
-      $("response").append("You: " + input+ "<br/>" + "Trump: " + response,function(index,html));
+      $("response").append("You: " + input+ "<br/>" + "Trump: " + response);
     console.log(response);
   });
 }
