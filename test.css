@@ -1,12 +1,22 @@
 body{
+	background-image: url(http://kansaspublicradio.org/sites/kansaspublicradio.org/files/npr-story-images/425034030_924316078.jpg);
+	background-repeat:no-repeat;
+	background-size:cover;
+}
+
+#header{
+	position:relative;
+	left: -120px; top: -10px;
+	float: left;
+	width: 90px; height: 90px;
 	background-image: url("photo.png");
 	background-repeat:no-repeat;
-	background-size:28%;
+	background-size:100%;
+	border: 1px solid #000;
 }
 
 #whole {
 	width: 550px; height:450px;
-	padding: 10px auto;
 	border: 2px solid #0072E3;
 	margin: 50px auto;
 }
@@ -14,14 +24,15 @@ body{
 #title{
 	background-color: #0072E3;
 	border: 1px solid #0072E3;
-}
-
-h3 {
 	text-align: center;
 }
 
-h5 {
-	text-align: center;
+h3{	
+	position: relative; left:-40px;
+}
+
+h5{
+	position: relative; left:-40px;
 }
 
 #conversation{
