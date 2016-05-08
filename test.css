@@ -1,6 +1,7 @@
 body{
 	background-image: url(http://kansaspublicradio.org/sites/kansaspublicradio.org/files/npr-story-images/425034030_924316078.jpg);
 	background-repeat:no-repeat;
+	background-size:cover;
 }
 
 #header{
