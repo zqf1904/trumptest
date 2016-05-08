@@ -1,12 +1,14 @@
 body{
-
+	background-image: url("photo.png");
+	background-repeat:no-repeat;
+	background-size:28%;
 }
 
 #whole {
 	width: 550px; height:450px;
 	padding: 10px auto;
 	border: 2px solid #0072E3;
-	margin: 100px auto;
+	margin: 50px auto;
 }
 
 #title{
@@ -39,6 +41,7 @@ h5 {
 
 p {
 	font-size: 14px;
+	font-family: "Helvetica";
 }
 
 hr{
