@@ -1,0 +1,47 @@
+body{
+	background-image: url('rally.jpg');
+	background-color: #0072E3;
+}
+
+#whole {
+	width: 550px; height:450px;
+	padding: 10px auto;
+	border: 2px solid #0072E3;
+	margin: 100px auto;
+}
+
+#title{
+	background-color: #0072E3;
+	border: 1px solid #0072E3;
+}
+
+h3 {
+	text-align: center;
+}
+
+h5 {
+	text-align: center;
+}
+
+#conversation{
+	text-align: center;
+	background-color: #F0F0F0;
+	border: 6px solid #F0F0F0;
+}
+
+#answer {
+    width:520px;
+    height:290px;
+    overflow-y:auto;
+    background-color: white;
+    margin: 0 auto;
+    border: 15px solid white;
+}
+
+p {
+	font-size: 14px;
+}
+
+hr{
+	width: 99%;
+}
