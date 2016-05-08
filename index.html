@@ -7,20 +7,21 @@
     <link rel="stylesheet" type="text/css" href="test.css">
   </head>
   <body>
-      <div id="whole">
-        <div id ="title">
-          <h3>MAKE DATING GREAT AGAIN</h3>
-          <h5>Dating advice from Donald J. Trump.</h5>
-        </div>
-        <div id="answer">
-          <p id="response"></p>
-        </div>
-        <div id="conversation">
-          <form id="talk" class="boxedin" onsubmit="return false;">
-          <input id="yousay" name="input" size="60" placeholder="Say something" onkeydown="if (event.keyCode == 13) { doTalk(); }"/>
-          <input id="talkbutton" type="button" value="Say it!" onclick="doTalk()"/> 
-          </form>
-        </div>
+    <div id="whole">
+    <div id="header"></div>
+      <div id ="title">  
+        <h3>MAKE DATING GREAT AGAIN</h3>
+        <h5>Dating advice from Donald J. Trump</h5>
       </div>
+      <div id="answer">
+        <p id="response"></p>
+      </div>
+      <div id="conversation">
+        <form id="talk" class="boxedin" onsubmit="return false;">
+        <input id="yousay" name="input" size="60" placeholder="Say something" onkeydown="if (event.keyCode == 13) { doTalk(); }"/>
+        <input id="talkbutton" type="button" value="Say it!" onclick="doTalk()"/> 
+        </form>
+      </div>
+    </div>
   </body>
 </html>
