@@ -6,7 +6,7 @@ body{
 
 #header{
 	position:relative;
-	left: 3%; top: 2%;
+	left: 2%; top: 2%;
 	float: left;
 	width: 80px; height: 80px;
 	background-image: url("photo.png");
@@ -15,7 +15,7 @@ body{
 }
 
 #whole {
-	width: 550px; height:550px;
+	width: 550px; height:490px;
 	max-width: 100%;
 	border: 1px solid #C90000;
 	margin: 50px auto;
@@ -24,19 +24,19 @@ body{
 #title{
 	background-color: white;
 	border: 1px solid #C90000;
-	text-align: center;
 	height: 100px;
+	text-align: center;	
 }
 
-h3{	
+#ht{
 	color: #342CA4;
-	font-size:26px;
+	font-size:22px;
 	font-family: "Arial";
 }
 
-h5{
+#subtitle{
 	color: #342CA4;
-	font-size:17px;
+	font-size:14px;
 	font-family: "Arial";
 }
 
@@ -54,7 +54,7 @@ input{
 
 #answer {
     width:548px;
-    height:418px;
+    height:358px;
     overflow-y:auto;
     background-color: white;
     margin: 0 auto;

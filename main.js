@@ -7,7 +7,7 @@ function doTalk() {
   document.getElementById("yousay").value = "";
   pb.talk(input, function(data) {
     var response = data["responses"];
-      document.getElementById("response").innerHTML = old_html + "You: " + input+ "<br><br>" + "Trump: " + response+ "<hr>";
+      document.getElementById("response").innerHTML = old_html + "You: " + input+ "<br><br>" + "Trump: " + response + "<hr>";
     console.log(response);
     document.getElementById('answer').scrollTop = document.getElementById('answer').scrollHeight;
   });
