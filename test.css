@@ -32,12 +32,14 @@ body{
 	color: #342CA4;
 	font-size:22px;
 	font-family: "Arial";
+	max-width: 90%;
 }
 
 #subtitle{
 	color: #342CA4;
 	font-size:14px;
 	font-family: "Arial";
+	max-width: 90%;
 }
 
 input{
@@ -58,7 +60,7 @@ input{
     overflow-y:auto;
     background-color: white;
     margin: 0 auto;
-    padding: 10px;
+    padding: 8px;
     border: 1px solid #C90000;
     max-width: 100%;
 }
