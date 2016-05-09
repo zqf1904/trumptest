@@ -16,7 +16,7 @@ body{
 
 #whole {
 	width: 550px; height:490px;
-	max-width: 100%;
+	max-width: 98%;
 	border: 1px solid #C90000;
 	margin: 50px auto;
 }
@@ -29,21 +29,23 @@ body{
 }
 
 #ht{
+	position:relative;
+	top:-2%;
 	color: #342CA4;
 	font-size:22px;
 	font-family: "Arial";
-	max-width: 90%;
+	max-width: 100%;
 }
 
 #subtitle{
 	color: #342CA4;
-	font-size:14px;
+	font-size:13px;
 	font-family: "Arial";
-	max-width: 90%;
+	max-width: 100%;
 }
 
 input{
-	max-width: 100%;
+	max-width: 75%;
 }
 
 #conversation{
