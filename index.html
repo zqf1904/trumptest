@@ -1,10 +1,15 @@
 <!doctype html>
 <html>
   <head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
     <title>Make Dating Great Again</title>
     <script src="talk.js"></script>
     <script src="main.js"></script>
+    <script src="bootstrap.min.js"></script>
     <link rel="stylesheet" type="text/css" href="test.css">
+    <link rel="stylesheet" type="text/css" href="bootstrap.min.css">
   </head>
   <body>
     <div id="whole">
@@ -18,7 +23,7 @@
       </div>
       <div id="conversation">
         <form id="talk" class="boxedin" onsubmit="return false;">
-        <input id="yousay" name="input" size="60" placeholder="Say something" onkeydown="if (event.keyCode == 13) { doTalk(); }"/>
+        <input id="yousay" name="input" size="65" autocorrect=off placeholder="Say something" onkeydown="if (event.keyCode == 13) { doTalk(); }"/>
         <input id="talkbutton" type="button" value="Say it!" onclick="doTalk()"/> 
         </form>
       </div>

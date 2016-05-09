@@ -1,24 +1,23 @@
 body{
 	background-image: url("trump.png");
 	background-repeat:repeat;
-	background-size:90%;
+	background-size:contain;
 }
 
 #header{
 	position:relative;
-	left: 1%; top: 1%;
+	left: 3%; top: 2%;
 	float: left;
-	width: 90px; height: 90px;
+	width: 80px; height: 80px;
 	background-image: url("photo.png");
 	background-repeat:no-repeat;
 	background-size:100%;
-	/*border: 2px solid #C90000;*/
-	border-width: 0px;
 }
 
 #whole {
-	width: 550px; height:450px;
-	border: 2px solid #C90000;
+	width: 550px; height:550px;
+	max-width: 100%;
+	border: 1px solid #C90000;
 	margin: 50px auto;
 }
 
@@ -26,33 +25,42 @@ body{
 	background-color: white;
 	border: 1px solid #C90000;
 	text-align: center;
+	height: 100px;
 }
 
 h3{	
 	color: #342CA4;
-	font-size:20px;
-	
-
+	font-size:26px;
+	font-family: "Arial";
 }
 
 h5{
 	color: #342CA4;
-	font-size:18px;
+	font-size:17px;
+	font-family: "Arial";
+}
+
+input{
+	max-width: 100%;
 }
 
 #conversation{
 	text-align: center;
 	background-color: #C90000;
-	border: 6px solid #C90000;
+	border: 1px solid #C90000;
+	max-width: 100%;
+	padding: 1px;
 }
 
 #answer {
-    width:520px;
-    height:290px;
+    width:548px;
+    height:418px;
     overflow-y:auto;
     background-color: white;
     margin: 0 auto;
-    border: 15px solid white;
+    padding-left: 10px; padding-right: 10px;
+    border: 1px solid #C90000;
+    max-width: 100%;
 }
 
 p {
