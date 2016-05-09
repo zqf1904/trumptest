@@ -38,6 +38,8 @@ body{
 }
 
 #subtitle{
+	position:relative;
+	bottom:2%;
 	color: #342CA4;
 	font-size:13px;
 	font-family: "Arial";
