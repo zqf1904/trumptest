@@ -49,16 +49,16 @@ input{
 	background-color: #C90000;
 	border: 1px solid #C90000;
 	max-width: 100%;
-	padding: 1px;
+	padding: 2px;
 }
 
 #answer {
     width:548px;
-    height:358px;
+    height:356px;
     overflow-y:auto;
     background-color: white;
     margin: 0 auto;
-    padding-left: 10px; padding-right: 10px;
+    padding: 10px;
     border: 1px solid #C90000;
     max-width: 100%;
 }
