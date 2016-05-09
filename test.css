@@ -1,5 +1,5 @@
 body{
-	background-image: url(http://kansaspublicradio.org/sites/kansaspublicradio.org/files/npr-story-images/425034030_924316078.jpg);
+	background-image: url("trump.png");
 	background-repeat:no-repeat;
 	background-size:100%;
 	background-origin:border-box
@@ -7,39 +7,42 @@ body{
 
 #header{
 	position:relative;
-	left: -120px; top: -10px;
+	left: 1%; top: 1%;
 	float: left;
 	width: 90px; height: 90px;
 	background-image: url("photo.png");
 	background-repeat:no-repeat;
 	background-size:100%;
-	border: 1px solid #0072E3;
+	/*border: 2px solid #C90000;*/
+	border-width: 0px;
 }
 
 #whole {
 	width: 550px; height:450px;
-	border: 2px solid #0072E3;
+	border: 2px solid #C90000;
 	margin: 50px auto;
 }
 
 #title{
-	background-color: #0072E3;
-	border: 1px solid #0072E3;
+	background-color: white;
+	border: 1px solid #C90000;
 	text-align: center;
 }
 
 h3{	
-	position: relative; left:-40px;
+	color: #342CA4;
+	
+
 }
 
 h5{
-	position: relative; left:-40px;
+	color: #342CA4;
 }
 
 #conversation{
 	text-align: center;
-	background-color: #F0F0F0;
-	border: 6px solid #F0F0F0;
+	background-color: #C90000;
+	border: 6px solid #C90000;
 }
 
 #answer {
