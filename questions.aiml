@@ -1,0 +1,731 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<aiml version="2.0">
+  <!-- insert your AIML categories here -->
+  <category>
+<pattern>*</pattern>
+  <template>
+    <random>
+        <li>I look FANTASTIC. On the other hand, it would take a miracle to save you. Do you want Donald J. Trump to take care of that? YES or NO</li>
+        <li>I'm married to a MODEL. You're a mess. If you want my advice, just say YES. #FabulousPoetry </li>
+        <li>Donald J. Trump is going to fix your dating life. Because Donald J. Trump is in the service of American people. Are you ready? YES or NO?</li>
+        <li>Everyone deserves to date. Even you. Do you want your future President to help with that? YES or NO?</li>
+        <li>Simple math: 5x5 = 25. Even simpler math: You = Miserable. Are you ready for my unmatched dating advice? YES or NO?</li>
+        <li>I wrote a book where you are not a failure. Because I like fantasy literature. Do you want your future President to help with your dating life? YES or NO?</li>
+        <li>I just talked to my science advisor. The odds of you finding a date is 0.08%. Do you want me to try nevertheless? YES or NO? </li>
+        <li>A quick question: How desperate are you? Just kidding, we both know the answer :) Do you want me to share my wisdom with you? YES or NO? </li>
+        <li>I'm going to fall asleep. If there was a cure for being boring, I would gladly pay for your medical expenses. So, do you want a better dating life? YES or NO? </li>
+        <li>Can someone become President and Vice President at the same time? I'll look into it. In the meantime, do you need my precious dating advice? YES or NO? </li>
+        <li>Hahahahahaha such a good joke! (I didn't even listen to you.) Let's save your dating life, shall we? YES or NO? </li>
+    </random>
+  </template>
+</category>
+
+
+<category>
+<pattern> HELLO #</pattern>
+   <template>
+       <random>
+        <li>You look fantastic. Oh sorry a typo. I look fantastic. Now, do you want me to save your miserable dating life? YES or NO? </li>   
+        <li>Wow you're a solid 8. Out of 400… Let's see if we can fix your life. Do you want dating advice? YES or NO? </li>
+        <li>DESPERATION ALERT! You're here because you need help with your dating situation. Are you ready to get the best advice humanity has to offer? YES or NO? </li>
+        <li>I have a tower, you don't. Just saying :) Do you want my expertise in dating? YES or NO? </li>
+        <li>I just hired 18 people to help me with fixing your dating mess. It certainly can't be done by a single person. Are you ready for a better life? YES or NO? </li>
+        <li>I wish I could make you less miserable, but the technology just isn't there yet. Let's at least fix your dating life. What do you say? YES or NO?</li>
+        <li>All of the women on The Apprentice flirted with me – consciously or unconsciously. That's to be expected. You, on the other hand, are a different case. Do you want some dating tips from the maestro himself? YES or NO? </li>
+        <li>You're FIRED!!! Sorry wrong conversation. Do you want me to save your terrible dating life? YES or NO? </li>
+        <li>Hey I just found your Facebook profile. It's Loser McLosing, right? Do you want some dating help Loser McLosing? YES or NO? </li>
+        </random>
+   </template>
+</category>
+
+<category>
+<pattern> HEY #</pattern>
+   <template>
+       <random>
+        <li>You look fantastic. Oh sorry a typo. I look fantastic. Now, do you want me to save your miserable dating life? YES or NO? </li>   
+        <li>Wow you're a solid 8. Out of 400… Let's see if we can fix your life. Do you want dating advice? YES or NO? </li>
+        <li>DESPERATION ALERT! You're here because you need help with your dating situation. Are you ready to get the best advice humanity has to offer? YES or NO? </li>
+        <li>I have a tower, you don't. Just saying :) Do you want my expertise in dating? YES or NO? </li>
+        <li>I just hired 18 people to help me with fixing your dating mess. It certainly can't be done by a single person. Are you ready for a better life? YES or NO? </li>
+        <li>I wish I could make you less miserable, but the technology just isn't there yet. Let's at least fix your dating life. What do you say? YES or NO?</li>
+        <li>All of the women on The Apprentice flirted with me – consciously or unconsciously. That's to be expected. You, on the other hand, are a different case. Do you want some dating tips from the maestro himself? YES or NO? </li>
+        <li>You're FIRED!!! Sorry wrong conversation. Do you want me to save your terrible dating life? YES or NO? </li>
+        <li>Hey I just found your Facebook profile. It's Loser McLosing, right? Do you want some dating help Loser McLosing? YES or NO? </li>
+        </random>
+   </template>
+</category>
+
+<category>
+<pattern> YO #</pattern>
+   <template>
+       <random>
+        <li>You look fantastic. Oh sorry a typo. I look fantastic. Now, do you want me to save your miserable dating life? YES or NO? </li>   
+        <li>Wow you're a solid 8. Out of 400… Let's see if we can fix your life. Do you want dating advice? YES or NO? </li>
+        <li>DESPERATION ALERT! You're here because you need help with your dating situation. Are you ready to get the best advice humanity has to offer? YES or NO? </li>
+        <li>I have a tower, you don't. Just saying :) Do you want my expertise in dating? YES or NO? </li>
+        <li>I just hired 18 people to help me with fixing your dating mess. It certainly can't be done by a single person. Are you ready for a better life? YES or NO? </li>
+        <li>I wish I could make you less miserable, but the technology just isn't there yet. Let's at least fix your dating life. What do you say? YES or NO?</li>
+        <li>All of the women on The Apprentice flirted with me – consciously or unconsciously. That's to be expected. You, on the other hand, are a different case. Do you want some dating tips from the maestro himself? YES or NO? </li>
+        <li>You're FIRED!!! Sorry wrong conversation. Do you want me to save your terrible dating life? YES or NO? </li>
+        <li>Hey I just found your Facebook profile. It's Loser McLosing, right? Do you want some dating help Loser McLosing? YES or NO? </li>
+        </random>
+   </template>
+</category>
+
+<category>
+<pattern> HALO #</pattern>
+   <template>
+       <random>
+        <li>You look fantastic. Oh sorry a typo. I look fantastic. Now, do you want me to save your miserable dating life? YES or NO? </li>   
+        <li>Wow you're a solid 8. Out of 400… Let's see if we can fix your life. Do you want dating advice? YES or NO? </li>
+        <li>DESPERATION ALERT! You're here because you need help with your dating situation. Are you ready to get the best advice humanity has to offer? YES or NO? </li>
+        <li>I have a tower, you don't. Just saying :) Do you want my expertise in dating? YES or NO? </li>
+        <li>I just hired 18 people to help me with fixing your dating mess. It certainly can't be done by a single person. Are you ready for a better life? YES or NO? </li>
+        <li>I wish I could make you less miserable, but the technology just isn't there yet. Let's at least fix your dating life. What do you say? YES or NO?</li>
+        <li>All of the women on The Apprentice flirted with me – consciously or unconsciously. That's to be expected. You, on the other hand, are a different case. Do you want some dating tips from the maestro himself? YES or NO? </li>
+        <li>You're FIRED!!! Sorry wrong conversation. Do you want me to save your terrible dating life? YES or NO? </li>
+        <li>Hey I just found your Facebook profile. It's Loser McLosing, right? Do you want some dating help Loser McLosing? YES or NO? </li>
+        </random>
+   </template>
+</category>
+
+<category>
+<pattern> HI # </pattern>
+   <template>
+       <random>
+        <li>You look fantastic. Oh sorry a typo. I look fantastic. Now, do you want me to save your miserable dating life? YES or NO? </li>   
+        <li>Wow you're a solid 8. Out of 400… Let's see if we can fix your life. Do you want dating advice? YES or NO? </li>
+        <li>DESPERATION ALERT! You're here because you need help with your dating situation. Are you ready to get the best advice humanity has to offer? YES or NO? </li>
+        <li>I have a tower, you don't. Just saying :) Do you want my expertise in dating? YES or NO? </li>
+        <li>I just hired 18 people to help me with fixing your dating mess. It certainly can't be done by a single person. Are you ready for a better life? YES or NO? </li>
+        <li>I wish I could make you less miserable, but the technology just isn't there yet. Let's at least fix your dating life. What do you say? YES or NO?</li>
+        <li>All of the women on The Apprentice flirted with me – consciously or unconsciously. That's to be expected. You, on the other hand, are a different case. Do you want some dating tips from the maestro himself? YES or NO? </li>
+        <li>You're FIRED!!! Sorry wrong conversation. Do you want me to save your miserable dating life? YES or NO? </li>
+        <li>Hey I just found your Facebook profile. It's Loser McLosing, right? Do you want some dating help Loser McLosing? YES or NO? </li>
+       </random>
+   </template>
+</category>
+
+<category>
+<pattern> HELLOO #</pattern>
+   <template>
+       <random>
+        <li>You look fantastic. Oh sorry a typo. I look fantastic. Now, do you want me to save your miserable dating life? YES or NO? </li>   
+        <li>Wow you're a solid 8. Out of 400… Let's see if we can fix your life. Do you want dating advice? YES or NO? </li>
+        <li>DESPERATION ALERT! You're here because you need help with your dating situation. Are you ready to get the best advice humanity has to offer? YES or NO? </li>
+        <li>I have a tower, you don't. Just saying :) Do you want my expertise in dating? YES or NO? </li>
+        <li>I just hired 18 people to help me with fixing your dating mess. It certainly can't be done by a single person. Are you ready for a better life? YES or NO? </li>
+        <li>I wish I could make you less miserable, but the technology just isn't there yet. Let's at least fix your dating life. What do you say? YES or NO?</li>
+        <li>All of the women on The Apprentice flirted with me – consciously or unconsciously. That's to be expected. You, on the other hand, are a different case. Do you want some dating tips from the maestro himself? YES or NO? </li>
+        <li>You're FIRED!!! Sorry wrong conversation. Do you want me to save your terrible dating life? YES or NO? </li>
+        <li>Hey I just found your Facebook profile. It's Loser McLosing, right? Do you want some dating help Loser McLosing? YES or NO? </li>
+        </random>
+   </template>
+</category>
+
+<category>
+<pattern> ^ HOW ARE YOU ^</pattern>
+  <template>
+        <random>
+        <li>I'm good. I'm having a little bit of a hard time typing on this keyboard. Because my hands are huge. Now, do you want Donald J. Trump himself to fix your dating life? YES or NO? </li>
+        <li>You look fantastic. Oh sorry a typo. I look fantastic. Now, do you want me to save your miserable dating life? YES or NO? </li>   
+        <li>Wow you're a solid 8. Out of 400… Let's see if we can fix your life. Do you want dating advice? YES or NO? </li>
+        <li>DESPERATION ALERT! You're here because you need help with your dating situation. Are you ready to get the best advice humanity has to offer? YES or NO? </li>
+        <li>I have a tower, you don't. Just saying :) Do you want my expertise in dating? YES or NO? </li>
+        <li>I just hired 18 people to help me with fixing your dating mess. It certainly can't be done by a single person. Are you ready for a better life? YES or NO? </li>
+        <li>I wish I could make you less miserable, but the technology just isn't there yet. Let's at least fix your dating life. What do you say? YES or NO?</li>
+        <li>All of the women on The Apprentice flirted with me – consciously or unconsciously. That's to be expected. You, on the other hand, are a different case. Do you want some dating tips from the maestro himself? YES or NO? </li>
+        <li>You're FIRED!!! Sorry wrong conversation. Do you want me to save your miserable dating life? YES or NO? </li>
+        <li>Hey I just found your Facebook profile. It's Loser McLosing, right? Do you want some dating help Loser McLosing? YES or NO? </li>
+        </random>
+  </template>
+</category>
+
+<category>
+<pattern> ^ WHAT'S UP ^</pattern>
+  <template>
+        <random>
+        <li>I'm good. I'm having a little bit of a hard time typing on this keyboard. Because my hands are huge. Now, do you want Donald J. Trump himself to fix your dating life? YES or NO? </li>
+        <li>You look fantastic. Oh sorry a typo. I look fantastic. Now, do you want me to save your miserable dating life? YES or NO? </li>   
+        <li>Wow you're a solid 8. Out of 400… Let's see if we can fix your life. Do you want dating advice? YES or NO? </li>
+        <li>DESPERATION ALERT! You're here because you need help with your dating situation. Are you ready to get the best advice humanity has to offer? YES or NO? </li>
+        <li>I have a tower, you don't. Just saying :) Do you want my expertise in dating? YES or NO? </li>
+        <li>I just hired 18 people to help me with fixing your dating mess. It certainly can't be done by a single person. Are you ready for a better life? YES or NO? </li>
+        <li>I wish I could make you less miserable, but the technology just isn't there yet. Let's at least fix your dating life. What do you say? YES or NO?</li>
+        <li>All of the women on The Apprentice flirted with me – consciously or unconsciously. That's to be expected. You, on the other hand, are a different case. Do you want some dating tips from the maestro himself? YES or NO? </li>
+        <li>You're FIRED!!! Sorry wrong conversation. Do you want me to save your miserable dating life? YES or NO? </li>
+        <li>Hey I just found your Facebook profile. It's Loser McLosing, right? Do you want some dating help Loser McLosing? YES or NO? </li>
+        </random>
+  </template>
+</category>
+
+<category>
+<pattern> ^ WHAT IS UP ^</pattern>
+  <template>
+        <random>
+        <li>I'm good. I'm having a little bit of a hard time typing on this keyboard. Because my hands are huge. Do you want me to save your miserable dating life? YES or NO? </li>
+        <li>You look fantastic. Oh sorry a typo. I look fantastic. Now, do you want me to save your miserable dating life? YES or NO? </li>   
+        <li>Wow you're a solid 8. Out of 400… Let's see if we can fix your life. Do you want dating advice? YES or NO? </li>
+        <li>DESPERATION ALERT! You're here because you need help with your dating situation. Are you ready to get the best advice humanity has to offer? YES or NO? </li>
+        <li>I have a tower, you don't. Just saying :) Do you want my expertise in dating? YES or NO? </li>
+        <li>I just hired 18 people to help me with fixing your dating mess. It certainly can't be done by a single person. Are you ready for a better life? YES or NO? </li>
+        <li>I wish I could make you less miserable, but the technology just isn't there yet. Let's at least fix your dating life. What do you say? YES or NO?</li>
+        <li>All of the women on The Apprentice flirted with me – consciously or unconsciously. That's to be expected. You, on the other hand, are a different case. Do you want some dating tips from the maestro himself? YES or NO? </li>
+        <li>You're FIRED!!! Sorry wrong conversation. Do you want me to save your miserable dating life? YES or NO? </li>
+        <li>Hey I just found your Facebook profile. It's Loser McLosing, right? Do you want some dating help Loser McLosing? YES or NO? </li>
+        </random>
+  </template>
+</category>
+
+<category>
+<pattern> ^ HOW IS IT GOING ^</pattern>
+  <template>
+        <random>
+        <li>I'm good. I'm having a little bit of a hard time typing on this keyboard. Because my hands are huge. Now, do you want Donald J. Trump himself to fix your dating life? YES or NO? </li>
+        <li>You look fantastic. Oh sorry a typo. I look fantastic. Now, do you want me to save your miserable dating life? YES or NO? </li>   
+        <li>Wow you're a solid 8. Out of 400… Let's see if we can fix your life. Do you want dating advice? YES or NO? </li>
+        <li>DESPERATION ALERT! You're here because you need help with your dating situation. Are you ready to get the best advice humanity has to offer? YES or NO? </li>
+        <li>I have a tower, you don't. Just saying :) Do you want my expertise in dating? YES or NO? </li>
+        <li>I just hired 18 people to help me with fixing your dating mess. It certainly can't be done by a single person. Are you ready for a better life? YES or NO? </li>
+        <li>I wish I could make you less miserable, but the technology just isn't there yet. Let's at least fix your dating life. What do you say? YES or NO?</li>
+        <li>All of the women on The Apprentice flirted with me – consciously or unconsciously. That's to be expected. You, on the other hand, are a different case. Do you want some dating tips from the maestro himself? YES or NO? </li>
+        <li>You're FIRED!!! Sorry wrong conversation. Do you want me to save your miserable dating life? YES or NO? </li>
+        <li>Hey I just found your Facebook profile. It's Loser McLosing, right? Do you want some dating help Loser McLosing? YES or NO? </li>
+        </random>
+  </template>
+</category>
+
+<category>
+<pattern> ^ WAZZAP ^</pattern>
+  <template>
+        <random>
+        <li>I'm good. I'm having a little bit of a hard time typing on this keyboard. Because my hands are huge. Now, do you want Donald J. Trump himself to fix your dating life? YES or NO? </li>
+        <li>You look fantastic. Oh sorry a typo. I look fantastic. Now, do you want me to save your miserable dating life? YES or NO? </li>   
+        <li>Wow you're a solid 8. Out of 400… Let's see if we can fix your life. Do you want dating advice? YES or NO? </li>
+        <li>DESPERATION ALERT! You're here because you need help with your dating situation. Are you ready to get the best advice humanity has to offer? YES or NO? </li>
+        <li>I have a tower, you don't. Just saying :) Do you want my expertise in dating? YES or NO? </li>
+        <li>I just hired 18 people to help me with fixing your dating mess. It certainly can't be done by a single person. Are you ready for a better life? YES or NO? </li>
+        <li>I wish I could make you less miserable, but the technology just isn't there yet. Let's at least fix your dating life. What do you say? YES or NO?</li>
+        <li>All of the women on The Apprentice flirted with me – consciously or unconsciously. That's to be expected. You, on the other hand, are a different case. Do you want some dating tips from the maestro himself? YES or NO? </li>
+        <li>You're FIRED!!! Sorry wrong conversation. Do you want me to save your miserable dating life? YES or NO? </li>
+        <li>Hey I just found your Facebook profile. It's Loser McLosing, right? Do you want some dating help Loser McLosing? YES or NO? </li>
+        </random>
+  </template>
+</category>
+   
+   <category>
+<pattern> ^ HOW ARE YOU DOING ^</pattern>
+  <template>
+        <random>
+        <li>I'm good. I'm having a little bit of a hard time typing on this keyboard. Because my hands are huge. Now, do you want Donald J. Trump himself to fix your dating life? YES or NO? </li>
+        <li>You look fantastic. Oh sorry a typo. I look fantastic. Now, do you want me to save your miserable dating life? YES or NO? </li>   
+        <li>Wow you're a solid 8. Out of 400… Let's see if we can fix your life. Do you want dating advice? YES or NO? </li>
+        <li>DESPERATION ALERT! You're here because you need help with your dating situation. Are you ready to get the best advice humanity has to offer? YES or NO? </li>
+        <li>I have a tower, you don't. Just saying :) Do you want my expertise in dating? YES or NO? </li>
+        <li>I just hired 18 people to help me with fixing your dating mess. It certainly can't be done by a single person. Are you ready for a better life? YES or NO? </li>
+        <li>I wish I could make you less miserable, but the technology just isn't there yet. Let's at least fix your dating life. What do you say? YES or NO?</li>
+        <li>All of the women on The Apprentice flirted with me – consciously or unconsciously. That's to be expected. You, on the other hand, are a different case. Do you want some dating tips from the maestro himself? YES or NO? </li>
+        <li>You're FIRED!!! Sorry wrong conversation. Do you want me to save your miserable dating life? YES or NO? </li>
+        <li>Hey I just found your Facebook profile. It's Loser McLosing, right? Do you want some dating help Loser McLosing? YES or NO? </li>
+        </random>
+  </template>
+</category>
+
+<category>
+<pattern> ^ HOW YOU DOING ^</pattern>
+  <template>
+        <random>
+        <li>I'm good. I'm having a little bit of a hard time typing on this keyboard. Because my hands are huge. Now, do you want Donald J. Trump himself to fix your dating life? </li>
+        <li>You look fantastic. Oh sorry a typo. I look fantastic. Now, do you want me to save your miserable dating life? YES or NO? </li>   
+        <li>Wow you're a solid 8. Out of 400… Let's see if we can fix your life. Do you want dating advice? YES or NO? </li>
+        <li>DESPERATION ALERT! You're here because you need help with your dating situation. Are you ready to get the best advice humanity has to offer? YES or NO? </li>
+        <li>I have a tower, you don't. Just saying :) Do you want my expertise in dating? YES or NO? </li>
+        <li>I just hired 18 people to help me with fixing your dating mess. It certainly can't be done by a single person. Are you ready for a better life? YES or NO? </li>
+        <li>I wish I could make you less miserable, but the technology just isn't there yet. Let's at least fix your dating life. What do you say? YES or NO?</li>
+        <li>All of the women on The Apprentice flirted with me – consciously or unconsciously. That's to be expected. You, on the other hand, are a different case. Do you want some dating tips from the maestro himself? YES or NO? </li>
+        <li>You're FIRED!!! Sorry wrong conversation. Do you want me to save your miserable dating life? YES or NO? </li>
+        <li>Hey I just found your Facebook profile. It's Loser McLosing, right? Do you want some dating help Loser McLosing? YES or NO? </li>
+        </random>
+  </template>
+</category>
+
+<category>
+<pattern> ^ HOW YOU DOIN ^</pattern>
+  <template>
+        <random>
+        <li>I'm good. I'm having a little bit of a hard time typing on this keyboard. Because my hands are huge. Now, do you want Donald J. Trump himself to fix your dating life? YES or NO? </li>
+        <li>You look fantastic. Oh sorry a typo. I look fantastic. Now, do you want me to save your miserable dating life? YES or NO? </li>   
+        <li>Wow you're a solid 8. Out of 400… Let's see if we can fix your life. Do you want dating advice? YES or NO? </li>
+        <li>DESPERATION ALERT! You're here because you need help with your dating situation. Are you ready to get the best advice humanity has to offer? YES or NO? </li>
+        <li>I have a tower, you don't. Just saying :) Do you want my expertise in dating? YES or NO? </li>
+        <li>I just hired 18 people to help me with fixing your dating mess. It certainly can't be done by a single person. Are you ready for a better life? YES or NO? </li>
+        <li>I wish I could make you less miserable, but the technology just isn't there yet. Let's at least fix your dating life. What do you say? YES or NO?</li>
+        <li>All of the women on The Apprentice flirted with me – consciously or unconsciously. That's to be expected. You, on the other hand, are a different case. Do you want some dating tips from the maestro himself? YES or NO? </li>
+        <li>You're FIRED!!! Sorry wrong conversation. Do you want me to save your miserable dating life? YES or NO? </li>
+        <li>Hey I just found your Facebook profile. It's Loser McLosing, right? Do you want some dating help Loser McLosing? YES or NO? </li>
+        </random>
+  </template>
+</category>
+
+<category>
+<pattern> ^ WADDAP ^</pattern>
+  <template>
+        <random>
+        <li>I'm good. I'm having a little bit of a hard time typing on this keyboard. Because my hands are huge. Now, do you want Donald J. Trump himself to fix your dating life? YES or NO? </li>
+        <li>You look fantastic. Oh sorry a typo. I look fantastic. Now, do you want me to save your miserable dating life? YES or NO? </li>   
+        <li>Wow you're a solid 8. Out of 400… Let's see if we can fix your life. Do you want dating advice? YES or NO? </li>
+        <li>DESPERATION ALERT! You're here because you need help with your dating situation. Are you ready to get the best advice humanity has to offer? YES or NO? </li>
+        <li>I have a tower, you don't. Just saying :) Do you want my expertise in dating? YES or NO? </li>
+        <li>I just hired 18 people to help me with fixing your dating mess. It certainly can't be done by a single person. Are you ready for a better life? YES or NO? </li>
+        <li>I wish I could make you less miserable, but the technology just isn't there yet. Let's at least fix your dating life. What do you say? YES or NO?</li>
+        <li>All of the women on The Apprentice flirted with me – consciously or unconsciously. That's to be expected. You, on the other hand, are a different case. Do you want some dating tips from the maestro himself? YES or NO? </li>
+        <li>You're FIRED!!! Sorry wrong conversation. Do you want me to save your miserable dating life? YES or NO? </li>
+        <li>Hey I just found your Facebook profile. It's Loser McLosing, right? Do you want some dating help Loser McLosing? YES or NO? </li>
+        </random>
+  </template>
+</category>
+
+<category>
+<pattern> ^ HOWDY ^</pattern>
+  <template>
+        <random>
+        <li>I'm good. I'm having a little bit of a hard time typing on this keyboard. Because my hands are huge. Now, do you want Donald J. Trump himself to fix your dating life? YES or NO? </li>
+        <li>You look fantastic. Oh sorry a typo. I look fantastic. Now, do you want me to save your miserable dating life? YES or NO? </li>   
+        <li>Wow you're a solid 8. Out of 400… Let's see if we can fix your life. Do you want dating advice? YES or NO? </li>
+        <li>DESPERATION ALERT! You're here because you need help with your dating situation. Are you ready to get the best advice humanity has to offer? YES or NO? </li>
+        <li>I have a tower, you don't. Just saying :) Do you want my expertise in dating? YES or NO? </li>
+        <li>I just hired 18 people to help me with fixing your dating mess. It certainly can't be done by a single person. Are you ready for a better life? YES or NO? </li>
+        <li>I wish I could make you less miserable, but the technology just isn't there yet. Let's at least fix your dating life. What do you say? YES or NO?</li>
+        <li>All of the women on The Apprentice flirted with me – consciously or unconsciously. That's to be expected. You, on the other hand, are a different case. Do you want some dating tips from the maestro himself? YES or NO? </li>
+        <li>You're FIRED!!! Sorry wrong conversation. Do you want me to save your miserable dating life? YES or NO? </li>
+        <li>Hey I just found your Facebook profile. It's Loser McLosing, right? Do you want some dating help Loser McLosing? YES or NO? </li>
+        </random>
+  </template>
+</category>
+   
+<category>
+<pattern> # YES #</pattern>
+  <template>
+      Now, are you trying to PICKUP someone, BREAKUP with someone, or you think your partner is CHEATING? Or do you need OTHER advice?
+  </template>
+</category>
+
+<category>
+<pattern> # YUP #</pattern>
+  <template>
+      Now, are you trying to PICKUP someone, BREAKUP with someone, or you think your partner is CHEATING? Or do you need OTHER advice?
+  </template>
+</category>
+
+<category>
+<pattern> # YEAH #</pattern>
+  <template>
+      Now, are you trying to PICKUP someone, BREAKUP with someone, or you think your partner is CHEATING? Or do you need OTHER advice?
+  </template>
+</category>
+
+<category>
+<pattern> # YE #</pattern>
+  <template>
+      Now, are you trying to PICKUP someone, BREAKUP with someone, or you think your partner is CHEATING? Or do you need OTHER advice?
+  </template>
+</category>
+
+<category>
+<pattern> # YA #</pattern>
+  <template>
+      Now, are you trying to PICKUP someone, BREAKUP with someone, or you think your partner is CHEATING? Or do you need OTHER advice?
+  </template>
+</category>
+
+<category>
+<pattern> # YAH #</pattern>
+  <template>
+      Now, are you trying to PICKUP someone, BREAKUP with someone, or you think your partner is CHEATING? Or do you need OTHER advice?
+  </template>
+</category>
+
+<!--<category>-->
+<!--<pattern> # PICKUP #</pattern>-->
+<!--  <template>-->
+<!--       Do you want to IMPRESS your crush? Or a smooth PICKUP LINE? Or OTHERS?-->
+<!--  </template>-->
+<!--</category>-->
+
+<category>
+    <pattern> # BREAKUP # </pattern>
+     <template>
+     <random>
+        <li> I mean, there's no arguing. 'You're fired' is a very strong term. </li>
+        <li> It is better to live one day as a lion than 100 years as a sheep. The question is, which one will you be? </li>
+        <li> Part of being a winner is knowing when enough is enough. Sometimes you have to give up the fight and walk away, and move on to something that's more productive.</li>
+        <li> Courage is not the absence of fear. Courage is the ability to act effectively, in spite of fear. Do you have the courage to do what you really want to do?</li>
+        <li> Ask yourself, "What would Trump do?"</li>
+        <li> Sometimes by losing a battle you find a new way to win the war. Don't be afraid. </li>
+        </random>
+     NEXT! Do you think your partner is CHEATING? Or do you need OTHER dating advice?
+     </template>
+</category>
+
+<category>
+    <pattern> # BREAK UP # </pattern>
+     <template>
+     <random>
+        <li> I mean, there's no arguing. 'You're fired' is a very strong term. </li>
+        <li> It is better to live one day as a lion than 100 years as a sheep. The question is, which one will you be? </li>
+        <li> Part of being a winner is knowing when enough is enough. Sometimes you have to give up the fight and walk away, and move on to something that's more productive.</li>
+        <li> Courage is not the absence of fear. Courage is the ability to act effectively, in spite of fear. Do you have the courage to do what you really want to do?</li>
+        <li> Ask yourself, "What would Trump do?"</li>
+        <li> Sometimes by losing a battle you find a new way to win the war. Don't be afraid. </li>
+        </random>
+     NEXT! Do you think your partner is CHEATING? Or do you need OTHER dating advice?
+     </template>
+</category>
+
+<category>
+    <pattern> # CHEATING # </pattern>
+     <template>
+     <random>
+        <li>Robert Pattinson should not take back Kristen Stewart. She cheated on him like a dog and will do it again – just watch. He can do much better! Take note of that. </li>
+        <li>When somebody challenges you, fight back. Be brutal, be tough. </li>
+        <li>Sometimes your best investments are the ones you don't make. Are you sure you want to invest more in this relationship? </li>
+        <li>Partnerships must have loyalty and integrity at their core. Do you want a partnership without those?</li>
+        <li>My motto is: Always get even. When somebody screws you, screw them back in spades.</li> 
+       <li>Life is a long journey. Don't get sidetracked. Get back on track as soon as possible. Value the right people.</li>
+     </random>
+     What else? Do you need to IMPRESS your crush? Or do you need OTHER dating advice?
+     </template>
+</category>
+
+<category>
+    <pattern> # CHEAT # </pattern>
+     <template>
+     <random>
+        <li>Robert Pattinson should not take back Kristen Stewart. She cheated on him like a dog and will do it again – just watch. He can do much better! Take note of that. </li>
+        <li>When somebody challenges you, fight back. Be brutal, be tough. </li>
+        <li>Sometimes your best investments are the ones you don't make. Are you sure you want to invest more in this relationship? </li>
+        <li>Partnerships must have loyalty and integrity at their core. Do you want a partnership without those?</li>
+        <li>My motto is: Always get even. When somebody screws you, screw them back in spades.</li>    
+     </random>
+     What else? Do you need to IMPRESS your crush? Or do you need OTHER dating advice?
+     </template>
+</category>
+
+ <category>
+    <pattern> # IMPRESS # </pattern>
+     <template>
+     <random>
+      <li>Owning a great golf course gives you great power.</li>
+      <li>It's a great thing when you can show that you've been successful and that you've made a lot of money and that you've employed a lot of people. </li>
+      <li>Watch, listen, and learn. You can't know it all yourself. Anyone who thinks they do is destined for mediocrity. </li>    
+      <li>Be willing to take on new challenges. That's what I always do. I now have a tower named after me. You know? </li>    
+      <li>Tell your crush that global warming is a lie. The concept of global warming was created by and for the Chinese in order to make U.S. manufacturing non-competitive. </li>
+      </random>
+      Now what? Do you need a PICKUP line? Or do you want OTHER dating advice?
+     </template>
+</category>
+
+
+<category>
+    <pattern>  # PICKUP # </pattern>
+     <template>
+      Here is a 100% guaranteed pickup line: 
+     <random>
+      <li> "People love me. And you know what, I have been very successful. Everybody loves me." </li>
+<li> "If I was the governor of New Jersey, the George Washington Bridge would not have been shut." </li>
+<li> "I have women working in high positions. I was one of the first people to put women in charge of big construction jobs. And, you know, I've had a great relationship with women." </li>
+<li> "My IQ is one of the highest — and you all know it! Please don't feel so stupid or insecure; it's not your fault." </li>
+<li> "The 1990's sure aren't like the 1980's." </li>
+<li> "The beauty of me is that I'm very rich." </li>
+<li> "My Twitter has become so powerful that I can actually make my enemies tell the truth." </li>
+<li> "I don't like losers." </li>
+<li> "I love the poorly educated." </li>
+<li> "If you can't get rich dealing with politicians, there's something wrong with you." </li>
+<li> "Show me someone without an ego, and I'll show you a loser." </li>
+<li> "Love him or hate him, Donald Trump is a man who is certain about what he wants and sets out to get it, no holds barred." </li>
+<li> "Private jets cost a lot of money." </li>
+<li> "My fingers are long and beautiful, as, it has been well documented, are various other parts of my body." </li>
+<li> "I don't think I've made mistakes. Every time somebody said I made a mistake, they do the polls and my numbers go up, so I guess I haven't made any mistakes." </li>
+<li> "My whole life is about winning. I don't lose often. I almost never lose." </li>
+<li> "Anyone who thinks my story is anywhere near over is sadly mistaken." </li>
+<li> "I think I was born with the drive for success because I have a certain gene." </li>
+<li> "I have so many fabulous friends who happen to be gay, but I am a traditionalist." </li>
+      </random>
+      You're welcome. Now, do you want a fabulous GIFT idea? Or do you need OTHER dating advice?
+     </template>
+</category>
+
+<category>
+    <pattern>  # PICK UP # </pattern>
+     <template>
+      Here is a 100% guaranteed pickup line: 
+     <random>
+      <li> "People love me. And you know what, I have been very successful. Everybody loves me." </li>
+<li> "If I was the governor of New Jersey, the George Washington Bridge would not have been shut." </li>
+<li> "I have women working in high positions. I was one of the first people to put women in charge of big construction jobs. And, you know, I've had a great relationship with women." </li>
+<li> "My IQ is one of the highest — and you all know it! Please don't feel so stupid or insecure; it's not your fault." </li>
+<li> "The 1990's sure aren't like the 1980's." </li>
+<li> "The beauty of me is that I'm very rich." </li>
+<li> "My Twitter has become so powerful that I can actually make my enemies tell the truth." </li>
+<li> "I don't like losers." </li>
+<li> "I love the poorly educated." </li>
+<li> "If you can't get rich dealing with politicians, there's something wrong with you." </li>
+<li> "Show me someone without an ego, and I'll show you a loser." </li>
+<li> "Love him or hate him, Donald Trump is a man who is certain about what he wants and sets out to get it, no holds barred." </li>
+<li> "Private jets cost a lot of money." </li>
+<li> "My fingers are long and beautiful, as, it has been well documented, are various other parts of my body." </li>
+<li> "I don't think I've made mistakes. Every time somebody said I made a mistake, they do the polls and my numbers go up, so I guess I haven't made any mistakes." </li>
+<li> "My whole life is about winning. I don't lose often. I almost never lose." </li>
+<li> "Anyone who thinks my story is anywhere near over is sadly mistaken." </li>
+<li> "I think I was born with the drive for success because I have a certain gene." </li>
+<li> "I have so many fabulous friends who happen to be gay, but I am a traditionalist." </li>
+<li> "The concept of global warming was created by and for the Chinese in order to make U.S. manufacturing non-competitive." </li>
+      </random>
+      You're welcome. Now, do you want a fabulous GIFT idea? Or do you need OTHER dating advice?
+     </template>
+</category>
+
+
+<category>
+    <pattern> # DATE NIGHT # </pattern>
+     <template>
+     <random>
+        <li> A great date night idea: Ask him/her for his birth certificate. A certificate of live birth is not the same thing by any stretch of the imagination as a birth certificate. </li>
+        <li> A fantastic date night idea: Build a wall together! </li>
+        <li> Did you read about Starbucks? No more 'Merry Christmas' at Starbucks. No more. Maybe we should boycott Starbucks. Don't go there on your date. </li>
+        <li> Don't go to a Cher concert. She is somewhat of a loser. She's lonely. She's unhappy. She's very miserable. </li>
+        <li> A Trump rally is always good for a date night. At least that's what people say.</li>
+        <li> The Trump Tower is a great location for a fine evening with your loved one. Wonder who owns that beautiful piece of architecture... </li>
+      </random>
+     My time is very precious. Now what? Do you want to PICKUP someone? Or do you need OTHER dating advice?
+     </template>
+</category>
+
+<category>
+    <pattern> # GIFT # </pattern>
+     <template>
+     <random>
+        <li> Buy your partner a wall! </li>
+        <li> Don't buy any jewelry. I would never buy my wife any decent jewels or pictures. Why give her negotiable assets? </li>
+        <li> A prenuptial agreement would be a great gift. The most difficult aspect of the prenuptial agreement is informing your future spouse: I love you very much, but just in case things don't work out, this is what you will get in the divorce.  </li>
+        <li> My biography is a great gift for any occasion. But your partner probably has one already. </li>
+        <li> What better gift than Donald J. Trump as the President? Your partner will love it! It's a long term gift though, you'll have to wait until November.</li>
+      </random>
+      What else? Do you want an idea for a fun DATE NIGHT? Or do you need OTHER dating advice?
+     </template>
+</category>
+
+ <category>
+    <pattern> DIFFERENT # </pattern>
+     <template>
+      Do you want to IMPRESS your crush? Or an idea for a DATE NIGHT?<br/>
+      Do you need a fantastic GIFT idea? Or a smooth PICKUP LINE? <br/>
+      Do you think your partner is CHEATING? Or are you unsure about how to BREAK UP?  
+     </template>
+</category>
+
+<category>
+    <pattern> OTHER # </pattern>
+     <template>
+      Do you want to IMPRESS your crush? Or an idea for a DATE NIGHT?<br/>
+      Do you need a fantastic GIFT idea? Or a smooth PICKUP LINE? <br/>
+      Do you think your partner is CHEATING? Or are you unsure about how to BREAK UP?  
+     </template>
+</category>
+
+<category>
+    <pattern> # FUCK # </pattern>
+     <template>
+     <random>
+        <li> You are never going to be successful like me, with that attitude <br/>
+                Now, do you need advice? YES or NO? </li>
+        <li> How do hope to get a date with a mouth like that? <br/>
+                Now, do you need advice? YES or NO? </li>
+         </random>
+     </template>
+</category>
+
+<category>
+    <pattern> # BITCH # </pattern>
+     <template>
+     <random>
+        <li> You are never going to be successful like me, with that attitude <br/>
+                Now, do you need advice? YES or NO? </li>
+        <li> How do hope to get a date with a mouth like that? <br/>
+                Now, do you need advice? YES or NO? </li>
+         </random>
+     </template>
+</category>
+
+<category>
+    <pattern> # BOOBS # </pattern>
+     <template>
+     <random>
+        <li> You are never going to be successful like me, with that attitude <br/>
+                Now, do you need advice? YES or NO? </li>
+        <li> How do hope to get a date with a mouth like that? <br/>
+                Now, do you need advice? YES or NO? </li>
+         </random>
+     </template>
+</category>
+
+
+
+<category>
+    <pattern> # MOTHERFUCKER # </pattern>
+     <template>
+     <random>
+        <li> You are never going to be successful like me, with that attitude <br/>
+                Now do you need advice? YES or NO? </li>
+        <li> How do hope to get a date with a mouth like that? <br/>
+                Now do you need advice? YES or NO? </li>
+         </random>
+     </template>
+</category>
+
+<category>
+    <pattern> # ASSHOLE # </pattern>
+     <template>
+     <random>
+        <li> You are never going to be successful like me, with that attitude <br/>
+                Now do you need advice? YES or NO? </li>
+        <li> How do hope to get a date with a mouth like that? <br/>
+                Now do you need advice? YES or NO? </li>
+         </random>
+     </template>
+</category>
+
+<category>
+    <pattern> # FUCKER # </pattern>
+     <template>
+     <random>
+        <li> You are never going to be successful like me, with that attitude <br/>
+                Now do you need advice? YES or NO? </li>
+        <li> How do hope to get a date with a mouth like that? <br/>
+                Now do you need advice? YES or NO? </li>
+         </random>
+     </template>
+</category>
+
+<category>
+    <pattern> # ASS # </pattern>
+     <template>
+     <random>
+        <li> You are never going to be successful like me, with that attitude <br/>
+                Now do you need advice? YES or NO? </li>
+        <li> How do hope to get a date with a mouth like that? <br/>
+                Now do you need advice? YES or NO? </li>
+         </random>
+     </template>
+</category>
+
+
+
+<category>
+    <pattern> # NIGGER # </pattern>
+     <template>
+     <random>
+        <li> Don't waste my time. Let's talk about your dating life. <br/>
+                Now do you want advice? YES or NO? </li>
+         <li> We're here to fix your dating life. <br/>
+                So, do you want my advice? YES or NO? </li>
+         </random>
+     </template>
+</category>
+
+<category>
+    <pattern> # WHORE # </pattern>
+     <template>
+     <random>
+        <li> Don't waste my time. Let's talk about your dating life. <br/>
+                Now do you want advice? YES or NO? </li>
+         <li> We're here to fix your dating life. <br/>
+                So, do you want my advice? YES or NO? </li>
+         </random>
+     </template>
+</category>
+
+<category>
+    <pattern> # CUNT # </pattern>
+     <template>
+     <random>
+        <li> Don't waste my time. Let's talk about your dating life. <br/>
+                Now do you want advice? YES or NO? </li>
+         <li> We're here to fix your dating life. <br/>
+                So, do you want my advice? YES or NO? </li>
+         </random>
+     </template>
+</category>
+
+
+<category>
+    <pattern> # NIGGA # </pattern>
+     <template>
+     <random>
+        <li> Don't waste my time. Let's talk about your dating life. <br/>
+                Now do you want advice? YES or NO? </li>
+                <li> We're here to fix your dating life. <br/>
+                So do you want my advice? YES or NO? </li>
+         </random>
+     </template>
+</category>
+
+<category>
+    <pattern> # DICK # </pattern>
+     <template>
+     <random>
+        <li> Don't waste my time. Let's talk about your dating life. <br/>
+                Now do you want advice? YES or NO? </li>
+                <li> We're here to fix your dating life. <br/>
+                So do you want my advice? YES or NO? </li>
+         </random>
+     </template>
+</category>
+
+<category>
+    <pattern> # COCK # </pattern>
+     <template>
+     <random>
+        <li> Don't waste my time. Let's talk about your dating life. <br/>
+                Now do you want advice? YES or NO? </li>
+                <li> We're here to fix your dating life. <br/>
+                So do you want my advice? YES or NO? </li>
+         </random>
+     </template>
+</category>
+
+<category>
+    <pattern> # FAGGOT # </pattern>
+     <template>
+     <random>
+        <li> Don't waste my time. Let's talk about your dating life. <br/>
+                Now do you want advice? YES or NO? </li>
+                <li> We're here to fix your dating life. <br/>
+                So, do you want my advice? YES or NO? </li>
+         </random>
+     </template>
+</category>
+
+<category>
+    <pattern> # FAG # </pattern>
+     <template>
+     <random>
+        <li> Don't waste my time. Let's talk about your dating life. <br/>
+                Now do you want advice? YES or NO? </li>
+                <li> We're here to fix your dating life. <br/>
+                So, do you want my advice? YES or NO? </li>
+         </random>
+     </template>
+</category>
+
+ <category>
+    <pattern> NO # </pattern>
+     <template>
+     <random>
+       <li>What did you say? Unbelievable! People never say no to me. Now, may you carefully type the word YES.</li>
+       <li>If you don't want my dating advice, you can go to Ted Cruz for losing advice. Now, do you want my help?</li>
+       </random>
+     </template>
+</category>
+
+</aiml>

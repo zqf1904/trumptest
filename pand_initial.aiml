@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<aiml>
+<!-- File: update.aiml -->
+<!-- Author: Dr. Richard S. Wallace -->
+<!-- Last modified: August 10, 2013 -->
+<!--  -->
+<!-- This AIML file is part of the ALICE2 0.0.5 chat bot knowledge base. -->
+<!--  -->
+<!-- The ALICE2 brain is Copyright &copy; 2013 by ALICE AI Foundation. -->
+<!--  -->
+<!-- The ALICE2 brain is released under the terms of the GNU Lesser General -->
+<!-- Public License, as published by the Free Software Foundation. -->
+<!--  -->
+<!-- This file is distributed WITHOUT ANY WARRANTY; without even the  -->
+<!-- implied warranty of MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.   -->
+<!--  -->
+<!-- For more information see http://www.alicebot.org -->
+<!--  -->
+
+<category><pattern>*</pattern>
+    <template>
+    <random>
+        <li>I look FANTASTIC. On the other hand, it would take a miracle to save you. Do you want Donald J. Trump to take care of that? YES or NO</li>
+        <li>I'm married to a MODEL. You're a mess. If you want my advice, just say YES. #FabulousPoetry </li>
+        <li>Donald J. Trump is going to fix your dating life. Because Donald J. Trump is in the service of American people. Are you ready? YES or NO?</li>
+        <li>Everyone deserves to date. Even you. Do you want your future President to help with that? YES or NO?</li>
+        <li>Simple math: 5x5 = 25. Even simpler math: You = Miserable. Are you ready for my unmatched dating advice? YES or NO?</li>
+        <li>I wrote a book where you are not a failure. Because I like fantasy literature. Do you want your future President to help with your dating life? YES or NO?</li>
+        <li>I just talked to my science advisor. The odds of you finding a date is 0.08%. Do you want me to try nevertheless? YES or NO? </li>
+        <li>A quick question: How desperate are you? Just kidding, we both know the answer :) Do you want me to share my wisdom with you? YES or NO? </li>
+        <li>I'm going to fall asleep. If there was a cure for being boring, I would gladly pay for your medical expenses. So, do you want a better dating life? YES or NO? </li>
+        <li>Can someone become President and Vice President at the same time? I'll look into it. In the meantime, do you need my precious dating advice? YES or NO? </li>
+        <li>Hahahahahaha such a good joke! (I didn't even listen to you.) Let's save your dating life, shall we? YES or NO? </li>
+    </random>
+    </template>
+</category>
+
+<category><pattern>BRAIN VERSION</pattern>
+<template><program/></template>
+</category>
+
+<category><pattern>PROGRAM VERSION</pattern>
+<template><program/></template>
+</category>
+
+<category><pattern>BRAIN BUILD</pattern>
+<template><program><info>build</info></program></template>
+</category>
+
+<category><pattern>AIML MATCH LIMIT *</pattern>
+<template>Match limit exceeded</template>
+</category>
+
+<category><pattern>AIML MATCH FAIL *</pattern>
+<template>Match failed</template>
+</category>
+
+</aiml>
